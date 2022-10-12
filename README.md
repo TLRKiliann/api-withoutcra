@@ -1,2 +1,3 @@
 # api-withoutcra
-no cra
+
+no cra = no vulnerabilities
